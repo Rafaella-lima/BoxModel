@@ -1,0 +1,25 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(9, 11, 164);
+//margin é o espaçamento fora da caixa//
+margin: 20px;
+// padding é o espaçamento de dentro da caixa//
+padding: 10px;
+border: solid 2px;
+// display é padrao da div
+display: inline-block;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    margin: 20px; ;
+    padding: 10px;
+   
+}
